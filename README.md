@@ -4,7 +4,7 @@ git clone https://github.com/manavparikh01/VaraDashboard.git
 
 ## Start the backend
 
-In the VaraDashboard directory, open terminal and follow the below commands \
+In the VaraDashboard directory, open terminal and run the below commands \
 \
 cd backend \
 npm install \
