@@ -1,16 +1,17 @@
 ## Clone the repo using
 
-git clone 
+git clone https://github.com/manavparikh01/VaraDashboard.git
 
 ## Start the backend
 
-cd backend
-npm install
-node app.js
+cd backend \
+npm install \
+node app.js \
 
 ## To run the frontend
 
-In a new terminal, come
+In a new terminal, \
+In the VaraDashboard directory \
 
 ### `npm start`
 
